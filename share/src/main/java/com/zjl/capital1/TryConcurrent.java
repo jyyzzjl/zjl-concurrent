@@ -1,4 +1,4 @@
-package com.zjl.com.zjl.capital1;
+package com.zjl.capital1;
 
 import java.util.concurrent.TimeUnit;
 
